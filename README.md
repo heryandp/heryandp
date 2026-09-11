@@ -23,6 +23,12 @@
 <table align="center">
   <tr>
     <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=git" width="45" alt="Git" /><br>Git
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=docker" width="45" alt="Python" /><br>Docker
+    </td>
+    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=python" width="45" alt="Python" /><br>Python
     </td>
     <td align="center" width="90">
